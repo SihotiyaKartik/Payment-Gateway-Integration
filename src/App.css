@@ -1,5 +1,5 @@
 body{
-    background-image: url("backg.png");
+    background-image: url("/backg.png");
     
     background-repeat: no-repeat;
     background-attachment: fixed;
